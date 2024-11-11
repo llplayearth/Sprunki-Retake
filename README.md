@@ -25,19 +25,6 @@ Sprunki Retake is a fan-made adaptation of Incredibox, where you can create, pla
 
 ---
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Gameplay Overview](#gameplay-overview)
-5. [Sprunki Phases](#sprunki-phases)
-6. [Popular Modes & Mods](#popular-modes--mods)
-7. [Tips for Success](#tips-for-success)
-8. [Resources](#resources)
-
----
-
 ## Introduction
 
 Sprunki Retake Game brings an extra layer of excitement to the classic Incredibox experience by introducing original characters, sounds, and mods. Whether you’re an Incredibox fan or new to the game, Sprunki offers hours of musical fun and creativity, and it’s entirely free to play online.
